@@ -1,5 +1,13 @@
+<h3 align="left">Hey, I'm Sabarish👋🏻</h3>
+<p align="left"><i>A passionate Full-Stack developer</i></p>
 
+-  📖 I’m currently pursuing B.Tech at SRM University.
+-  🔭 I'm currently learning about Web Development
+-  📩 Contact me:
 
+    [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
+
+### 💻 Tech Stack: 
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,vite,js,ts,tailwindcss,bootstrap,nodejs,express,postgres,mongodb,supabase,firebase,mysql,html,css,git,github,c,cpp,java,postman,vercel,netlify,figma,vscode&perline=8)](https://skillicons.dev)
 
